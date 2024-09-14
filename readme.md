@@ -1,3 +1,10 @@
+
+# SwiftieTV
+
+### Method 1: remap the Home button
+This is the "safer" and easiest way. Use [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton) to remap the Home button of the remote to launch FLauncher.
+
+
 ### Method 2: disable the default launcher
 **:warning: Disclaimer :warning:**
 

@@ -1,4 +1,3 @@
 <resources>
-
     <style name="Theme.SwiftieTV" parent="Theme.AppCompat.DayNight.NoActionBar" />
 </resources>
